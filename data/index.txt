@@ -1,1 +1,1 @@
-
+The dataset used in this project is the same as the one provided for analysis. All dashboards, visualizations, and insights have been created based on the given dataset without any modifications.
