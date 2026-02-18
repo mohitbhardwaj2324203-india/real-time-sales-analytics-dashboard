@@ -1,4 +1,7 @@
+_**Project**: **Real-Time Sales Analytics Dashboard**_
+
 📊 Project Overview
+_This project demonstrates my ability to clean data, perform exploratory analysis, build dashboards, and generate actionable business insights._
 
 This project focuses on building a real-time sales analytics dashboard to analyze business performance and support data-driven decision-making. Using the same dataset from my training project, I implemented advanced analytics tasks as part of my data analytics internship.
 
