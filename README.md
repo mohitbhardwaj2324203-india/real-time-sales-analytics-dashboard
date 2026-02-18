@@ -34,7 +34,8 @@ Filtered valid orders for Mobiles & Tablets (2022)
 
 Ranked products based on quantity sold
 
-Created a horizontal bar chart
+Created <img width="1063" height="495" alt="Task1_BarChart" src="https://github.com/user-attachments/assets/5c015c70-c948-4eca-9fbb-a431ea4d8064" />
+a horizontal bar chart
 
 👉 Insight: Identified highest-demand products for festival planning.
 
